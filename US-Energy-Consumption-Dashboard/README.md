@@ -21,7 +21,7 @@ By leveraging **Power BI’s advanced analytics**, this dashboard helps in makin
 
 ✔ **Total Consumption by State** – Interactive US map showing energy consumption across states.  
 ✔ **Energy Consumption Over Time** – A line chart visualizing the consumption trends across different energy sources.  
-✔ **Share of Energy by Source** – A donut chart representing the proportion of **Petroleum, Natural Gas, Coal, and Nuclear energy**.  
+✔ **Share of Energy by Source** – A donut chart representing the proportion of **Petroleum, Natural Gas, Coal, Renewable and Nuclear energy**.  
 ✔ **Energy Consumption by Source** – KPI indicators displaying total consumption for each energy source.  
 ✔ **Top 10 Energy-Consuming States** – A bar chart highlighting the states with the highest energy consumption.  
 ✔ **Dynamic Filters** – Users can **filter by year** to see energy trends for different periods.
