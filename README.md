@@ -10,7 +10,7 @@ Welcome! I'm a **data professional passionate about creating insightful and inte
 - **Description:** This Power BI dashboard provides an **interactive analysis** of US energy consumption trends, highlighting **energy sources, state-level usage, and consumption trends over time**.
 - **Key Insights:**
   - Identify **major energy-consuming states** and trends.
-  - Analyze the **share of different energy sources** (Petroleum, Natural Gas, Coal, Nuclear).
+  - Analyze the **share of different energy sources** (Petroleum, Natural Gas, Coal, Renewable, Nuclear).
   - Compare **historical consumption patterns** and **state-wise distribution**.
   - Visualize **top energy-consuming states** and their trends.
 - **Skills:** Interactive visualizations, KPI tracking, Maps, Bar Charts, Line Charts, DAX Calculations.
