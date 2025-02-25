@@ -5,7 +5,7 @@ This folder contains the datasets used in the **US Energy Consumption Dashboard*
 ---
 
 ## 📌 Dataset Overview
-The datasets in this folder contain energy consumption data across the United States, segmented by state and energy source (Petroleum, Natural Gas, Coal, and Nuclear). The data was sourced from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov).
+The datasets in this folder contain energy consumption data across the United States, segmented by state and energy source (Petroleum, Natural Gas, Coal, Renewable and Nuclear). The data was sourced from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov).
 
 ---
 
